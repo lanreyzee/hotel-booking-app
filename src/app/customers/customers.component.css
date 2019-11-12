@@ -1,0 +1,18 @@
+div{
+    margin-top: 2%;
+}
+table, tr, th, td{
+    border:1px solid lightgray;
+}
+tr,th,td{
+    padding:10px;
+}
+
+caption{
+    color:#fff;
+    background-color: black;
+    text-align: center;
+}
+li a{
+    text-decoration: none;
+}
